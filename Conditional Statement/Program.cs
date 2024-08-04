@@ -18,9 +18,11 @@ namespace Conditional_Statement
             //IfElseStatement obj = new IfElseStatement();
             //obj.voting(age);
 
-            LadderIfElseStatement obj = new LadderIfElseStatement();
-            obj.property(age);
+            //LadderIfElseStatement obj = new LadderIfElseStatement();
+            //obj.property(age);
 
+            Switchs obj = new Switchs();
+            Console.WriteLine(obj.days(age));
         }
     }
 }
