@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace Conditional_Statement
 {
-    class IfStatement
+    class IfElseStatement
     {
-        public void isAllowedVoting(int age)
+        public void voting(int age)
         {
-            if(age>=18 && age <= 120 && age is int)
+            if (age >= 18 && age <= 120 && age is int)
             {
                 Console.WriteLine(age + " age is Allowed To vote");
             }
-           
+            else
+            {
+                Console.WriteLine("You are not Allowed To vote");
+            }
         }
-
     }
 }
