@@ -11,10 +11,15 @@ namespace Conditional_Statement
         static void Main(string[] args)
         {
             int age = Convert.ToInt32(Console.ReadLine());
+
             //IfStatement obj = new IfStatement();
             //obj.isAllowedVoting(age);
-            IfElseStatement obj = new IfElseStatement();
-            obj.voting(age);
+
+            //IfElseStatement obj = new IfElseStatement();
+            //obj.voting(age);
+
+            LadderIfElseStatement obj = new LadderIfElseStatement();
+            obj.property(age);
 
         }
     }
