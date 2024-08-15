@@ -1,0 +1,15 @@
+B:\DotNet\AcessModifier\bin\Debug\net9.0\AcessModifier.exe
+B:\DotNet\AcessModifier\bin\Debug\net9.0\AcessModifier.deps.json
+B:\DotNet\AcessModifier\bin\Debug\net9.0\AcessModifier.runtimeconfig.json
+B:\DotNet\AcessModifier\bin\Debug\net9.0\AcessModifier.dll
+B:\DotNet\AcessModifier\bin\Debug\net9.0\AcessModifier.pdb
+B:\DotNet\AcessModifier\obj\Debug\net9.0\AcessModifier.GeneratedMSBuildEditorConfig.editorconfig
+B:\DotNet\AcessModifier\obj\Debug\net9.0\AcessModifier.AssemblyInfoInputs.cache
+B:\DotNet\AcessModifier\obj\Debug\net9.0\AcessModifier.AssemblyInfo.cs
+B:\DotNet\AcessModifier\obj\Debug\net9.0\AcessModifier.csproj.CoreCompileInputs.cache
+B:\DotNet\AcessModifier\obj\Debug\net9.0\AcessModifier.sourcelink.json
+B:\DotNet\AcessModifier\obj\Debug\net9.0\AcessModifier.dll
+B:\DotNet\AcessModifier\obj\Debug\net9.0\refint\AcessModifier.dll
+B:\DotNet\AcessModifier\obj\Debug\net9.0\AcessModifier.pdb
+B:\DotNet\AcessModifier\obj\Debug\net9.0\AcessModifier.genruntimeconfig.cache
+B:\DotNet\AcessModifier\obj\Debug\net9.0\ref\AcessModifier.dll

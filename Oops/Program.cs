@@ -23,9 +23,9 @@ namespace Oops
             Console.WriteLine(obj2.add(10, 20,30));
 
             Dog obj3 = new Dog();
-
+            Console.WriteLine("Heeloo");
             obj3.run();
-         
+            string a=Console.ReadLine()
         }
     }
 }

@@ -5,3 +5,5 @@ D:\DotNet\Oops\obj\Debug\Oops.csproj.AssemblyReference.cache
 D:\DotNet\Oops\obj\Debug\Oops.csproj.CoreCompileInputs.cache
 D:\DotNet\Oops\obj\Debug\Oops.exe
 D:\DotNet\Oops\obj\Debug\Oops.pdb
+B:\DotNet\Oops\obj\Debug\Oops.csproj.AssemblyReference.cache
+B:\DotNet\Oops\obj\Debug\Oops.csproj.CoreCompileInputs.cache
